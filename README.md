@@ -61,6 +61,162 @@ In CSS you have ```Property: Value;```
 
 ## Solutions
 
+### Level 1
+
+```
+justify-content: flex-end;
+````
+
+### Level 2
+
+```
+justify-content: center;
+```
+
+### Level 3
+
+```
+justify-content: space-around;
+```
+
+### Level 4
+
+```
+justify-content: space-between;
+```
+
+### Level 5
+
+```
+align-items: flex-end;
+```
+
+### Level 6
+
+```
+justify-content: center;
+align-items: center;
+```
+
+### Level 7
+
+```
+align-items: flex-end;
+justify-content: space-around;
+```
+
+### Level 8
+
+
+```
+flex-direction: row-reverse;
+```
+
+### Level 9
+
+
+```
+flex-direction: column;
+```
+
+### Level 9
+
+```
+flex-direction: row-reverse;
+justify-content: flex-end;
+```
+
+### Level 10
+
+
+```
+flex-direction: column;
+justify-content: flex-end;
+```
+
+### Level 11
+
+```
+flex-direction: column-reverse;
+justify-content: space-between;
+```
+
+### Level 12
+
+```
+flex-direction: row-reverse;
+justify-content: center;
+align-items: flex-end;
+```
+
+### Level 13
+
+```
+order: 1;
+```
+
+### Level 14
+
+```
+order: -1;
+```
+
+### Level 15
+
+```
+align-self: flex-end;
+```
+
+### Level 16
+
+```
+order: 2;
+align-self: flex-end;
+```
+
+### Level 17
+
+```
+flex-wrap: wrap;
+```
+
+### Level 18
+
+```
+flex-flow: wrap column;
+```
+
+### Level 19
+
+```
+flex-flow: wrap column;
+
+```
+
+### Level 20
+
+```
+flex-flow: wrap column;
+```
+
+### Level 21
+
+```
+align-content: flex-start;
+```
+
+### Level 22
+
+```
+align-content: flex-end;
+```
+
+### Level 23
+
+```
+flex-direction: column-reverse;
+align-content: center;
+```
 ### Level 24
 
 ```
